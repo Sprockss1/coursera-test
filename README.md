@@ -8,7 +8,7 @@ This request.service publishes to 'caseRequest' topic name with the request mess
 
 Input: 	
 Post /requests
-```nodejs
+```json
 {
   "ownerName": "string",
   "address": "string",
